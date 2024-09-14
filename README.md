@@ -19,4 +19,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ---
 
-![alt text](./images/demo/Coffeeshop.png)
+![Image of coffee shop](./images/demo/Coffeeshop.png)
