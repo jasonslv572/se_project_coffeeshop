@@ -13,9 +13,10 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-- Add menu section and footer
+- Add more vibrant colors to the menu section
 - Style finishing touches
-- Add image to README.md
+- Add a nutritional values section
+- Include more intricate transitions
 
 ---
 

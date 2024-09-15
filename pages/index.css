@@ -7,32 +7,5 @@
 @import url(../blocks/form.css);
 @import url(../blocks/menu.css);
 @import url(../blocks/card.css);
-
-.menu {
-  background-color: #fff;
-  background-image: url(../images/background_menu.svg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 100px 0;
-}
-
-.menu__title {
-  margin: 0 0 24px;
-}
-
-.menu__subtitle {
-  margin: 0 0 100px;
-}
-
-.menu__cards {
-}
-
-.card {
-}
-
-.card__list {
-}
-
-.card__list-item {
-}
+@import url(../blocks/about.css);
+@import url(../blocks/footer.css);

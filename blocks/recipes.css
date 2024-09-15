@@ -6,6 +6,7 @@
 
 .recipes__title {
   margin: 0 0 24px;
+  max-width: 580px;
   font-family: "Inter", "arial", sans-serif;
   font-style: normal;
   font-weight: 500;
